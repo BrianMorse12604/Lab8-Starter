@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Brian Morse",
     "description": "Show recipe cards for varying recipes",
-    "start_url": "./",
+    "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "peachpuff",
     "theme_color": "rgb(255 218 185)",
